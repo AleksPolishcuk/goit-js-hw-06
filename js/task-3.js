@@ -22,6 +22,7 @@ class StringBuilder {
   }
 }
 
+//Код для перевірки
 const builder = new StringBuilder(".");
 console.log(builder.getValue()); // "."
 
